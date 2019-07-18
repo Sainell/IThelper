@@ -1,0 +1,10 @@
+E:\Projects\ITHelper\ITHelper\bin\Debug\ITHelper.exe.config
+E:\Projects\ITHelper\ITHelper\bin\Debug\ITHelper.exe
+E:\Projects\ITHelper\ITHelper\bin\Debug\ITHelper.pdb
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.csprojAssemblyReference.cache
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.Form1.resources
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.Properties.Resources.resources
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.csproj.GenerateResource.cache
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.csproj.CoreCompileInputs.cache
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.exe
+E:\Projects\ITHelper\ITHelper\obj\Debug\ITHelper.pdb
